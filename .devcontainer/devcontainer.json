@@ -5,5 +5,5 @@
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
 
   "remoteUser": "codespace",
-  "overrideCommand": true
+  "overrideCommand": false
 }
